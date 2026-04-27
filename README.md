@@ -12,10 +12,10 @@
 |---|---|
 | **Universidad** | Universidad Latinoamericana de Ciencia y Tecnología (ULACIT) |
 | **Carrera** | Ingeniería Informática |
-| **Curso** | _[Nombre del curso]_ |
-| **Profesor** | _[Nombre del profesor/a]_ |
-| **Período** | 2026 — I cuatrimestre |
-| **Tipo de entrega** | _[Proyecto final / integrador]_ |
+| **Curso** | Criptografia |
+| **Profesor** | Edwin Gerardo Acuña Acuña |
+| **Período** | 2025 — III cuatrimestre |
+| **Tipo de entrega** | Proyecto final / integrador |
 
 ### 👥 Equipo de desarrollo
 
@@ -23,9 +23,8 @@
 |---|
 | Óscar David Charpentier Zúñiga |
 | Sebastián Navarro Ortiz |
-| Sebastián Herrera Rodríguez |
-| Tomás Angulo Cordero |
-| Ian Herrera Álvarez |
+| Esteban Guerrero Cerdas |
+
 
 ---
 
